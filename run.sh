@@ -3,4 +3,4 @@
 
 clear
 echo "Starting test server ..."
-python3 controller.py
+python3 run/wsgi.py
